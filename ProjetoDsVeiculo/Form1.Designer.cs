@@ -32,6 +32,7 @@
             this.btncaminhao = new System.Windows.Forms.Button();
             this.btncarro = new System.Windows.Forms.Button();
             this.lbldupla = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnsair
@@ -67,17 +68,31 @@
             // lbldupla
             // 
             this.lbldupla.AutoSize = true;
-            this.lbldupla.Location = new System.Drawing.Point(85, 32);
+            this.lbldupla.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbldupla.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.lbldupla.Location = new System.Drawing.Point(510, 374);
             this.lbldupla.Name = "lbldupla";
-            this.lbldupla.Size = new System.Drawing.Size(182, 13);
+            this.lbldupla.Size = new System.Drawing.Size(248, 18);
             this.lbldupla.TabIndex = 9;
             this.lbldupla.Text = "LUAN HIDEMI E MATEUS CORIPIO";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.label1.Location = new System.Drawing.Point(682, 392);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(76, 18);
+            this.label1.TabIndex = 10;
+            this.label1.Text = "2DS ETIM";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.lbldupla);
             this.Controls.Add(this.btnsair);
             this.Controls.Add(this.btncaminhao);
@@ -97,6 +112,7 @@
         private System.Windows.Forms.Button btncaminhao;
         private System.Windows.Forms.Button btncarro;
         private System.Windows.Forms.Label lbldupla;
+        private System.Windows.Forms.Label label1;
     }
 }
 
