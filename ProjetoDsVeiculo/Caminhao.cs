@@ -55,7 +55,7 @@ namespace ProjetoDsVeiculo
         public override string PrintMySQL()
         {
             String s = String.Empty;
-            s = String.Concat(this.TpMotor, " ", this.Marca, " ", this.CodVeiculo, " ", this.Cor, " ", this.Modelo, " ", this.TpCambio, " ", this.Porte, " ", this.Tpcabine, " ", this.Numeixo, " ", this.Tpcarga);
+            s = String.Concat("Tipo do motor: ", this.TpMotor, "\n", "Marca: ", this.Marca, "\n", "Código do veículo: ", this.CodVeiculo, "\n", "Cor: ", this.Cor, "\n", "Modelo: ", this.Modelo, "\n", "Tipo de câmbio: ", this.TpCambio, "\n", "Porte: ", this.Porte, "\n", "Tipo de cabine: ", this.Tpcabine, "\n", "Número de eixos: ", this.Numeixo, "\n", "Tipo de carga: ", this.Tpcarga);
             return s;
         }
     }
