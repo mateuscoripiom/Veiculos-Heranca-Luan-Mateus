@@ -1,0 +1,13 @@
+T:\2 ETIM DS\2ETIM DS - LUAN E MATEUS\DESENVOLVIMENTO DE SISTEMAS\PROJETO DS\ProjetoDsVeiculo\ProjetoDsVeiculo\bin\Debug\ProjetoDsVeiculo.exe.config
+T:\2 ETIM DS\2ETIM DS - LUAN E MATEUS\DESENVOLVIMENTO DE SISTEMAS\PROJETO DS\ProjetoDsVeiculo\ProjetoDsVeiculo\bin\Debug\ProjetoDsVeiculo.exe
+T:\2 ETIM DS\2ETIM DS - LUAN E MATEUS\DESENVOLVIMENTO DE SISTEMAS\PROJETO DS\ProjetoDsVeiculo\ProjetoDsVeiculo\bin\Debug\ProjetoDsVeiculo.pdb
+T:\2 ETIM DS\2ETIM DS - LUAN E MATEUS\DESENVOLVIMENTO DE SISTEMAS\PROJETO DS\ProjetoDsVeiculo\ProjetoDsVeiculo\obj\Debug\ProjetoDsVeiculo.csproj.AssemblyReference.cache
+T:\2 ETIM DS\2ETIM DS - LUAN E MATEUS\DESENVOLVIMENTO DE SISTEMAS\PROJETO DS\ProjetoDsVeiculo\ProjetoDsVeiculo\obj\Debug\ProjetoDsVeiculo.csproj.SuggestedBindingRedirects.cache
+T:\2 ETIM DS\2ETIM DS - LUAN E MATEUS\DESENVOLVIMENTO DE SISTEMAS\PROJETO DS\ProjetoDsVeiculo\ProjetoDsVeiculo\obj\Debug\ProjetoDsVeiculo.Form1.resources
+T:\2 ETIM DS\2ETIM DS - LUAN E MATEUS\DESENVOLVIMENTO DE SISTEMAS\PROJETO DS\ProjetoDsVeiculo\ProjetoDsVeiculo\obj\Debug\ProjetoDsVeiculo.Properties.Resources.resources
+T:\2 ETIM DS\2ETIM DS - LUAN E MATEUS\DESENVOLVIMENTO DE SISTEMAS\PROJETO DS\ProjetoDsVeiculo\ProjetoDsVeiculo\obj\Debug\ProjetoDsVeiculo.csproj.GenerateResource.cache
+T:\2 ETIM DS\2ETIM DS - LUAN E MATEUS\DESENVOLVIMENTO DE SISTEMAS\PROJETO DS\ProjetoDsVeiculo\ProjetoDsVeiculo\obj\Debug\ProjetoDsVeiculo.csproj.CoreCompileInputs.cache
+T:\2 ETIM DS\2ETIM DS - LUAN E MATEUS\DESENVOLVIMENTO DE SISTEMAS\PROJETO DS\ProjetoDsVeiculo\ProjetoDsVeiculo\obj\Debug\ProjetoDsVeiculo.exe
+T:\2 ETIM DS\2ETIM DS - LUAN E MATEUS\DESENVOLVIMENTO DE SISTEMAS\PROJETO DS\ProjetoDsVeiculo\ProjetoDsVeiculo\obj\Debug\ProjetoDsVeiculo.pdb
+T:\2 ETIM DS\2ETIM DS - LUAN E MATEUS\DESENVOLVIMENTO DE SISTEMAS\PROJETO DS\ProjetoDsVeiculo\ProjetoDsVeiculo\obj\Debug\ProjetoDsVeiculo.Form2.resources
+T:\2 ETIM DS\2ETIM DS - LUAN E MATEUS\DESENVOLVIMENTO DE SISTEMAS\PROJETO DS\ProjetoDsVeiculo\ProjetoDsVeiculo\obj\Debug\ProjetoDsVeiculo.Form3.resources
